@@ -13,7 +13,7 @@ This is a simple RESTful API built using Lumen to manage tasks. The API allows u
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/task-manager-api.git"; 
+git clone https://github.com/briancodz/task-manager-api.git"; 
 ``` 
 ```
 cd task-manager-api
